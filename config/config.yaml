@@ -1,6 +1,6 @@
 app:
   # 将下面的 URL 替换为您自己的 GitHub Pages 地址
-  base_url: "https://joyce677.github.io/TrendRadar"
+  base_url: "https://csTom2024.github.io/TrendRadar"
   version_check_url: "https://raw.githubusercontent.com/sansan0/TrendRadar/refs/heads/master/version"
   show_version_update: true # 控制显示版本更新提示，改成 false 将不接受新版本提示
 
@@ -15,7 +15,7 @@ crawler:
 #   • 显示内容：当日所有匹配新闻 + 新增新闻区域
 #   • 适用场景：日报总结、全面了解当日热点趋势
 #
-# 🔸 current（当前榜单模式）
+ 🔸 current（当前榜单模式）
 #   • 推送时机：按时推送
 #   • 显示内容：当前榜单匹配新闻 + 新增新闻区域
 #   • 适用场景：实时热点追踪、了解当前最火的内容
